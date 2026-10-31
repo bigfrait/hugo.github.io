@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://bigfrait.github.io/hugo.github.io/sitemap.xml
